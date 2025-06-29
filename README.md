@@ -9,7 +9,7 @@ A real-time monitoring system designed to detect onion rotting and regulate envi
 - Arduino – *Microcontroller that runs embedded logic to detect spoilage and control ventilation based on sensor readings.*
 
 
-### Key Accomplishments
+### Design & Development
 - Researched and designed an innovative spoilage detection system  
 - Implemented custom logic for MQ137 using its datasheet (no official library available)  
 - Integrated sensors and motor controller into a cohesive system
